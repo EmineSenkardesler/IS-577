@@ -1,0 +1,9 @@
+# Python virtualenv (recreate with: python3 -m venv is577 && pip install -r requirements.txt)
+is577/
+
+# macOS
+.DS_Store
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
